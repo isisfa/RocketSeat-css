@@ -1,0 +1,31 @@
+/*   Comentários   */
+
+/* Selectors
+    
+    - Global selector: '*': A alteração dele afeta todos
+ex:  * { 
+        margin: 0;
+       }
+
+    - Element/Type selector: 'h1, h2, p, div'
+ex:  h1, h2 {                       //Observe que agrupei o h1 e h2 para receberem as mesmas configuraçoes
+            color:  red;
+            font-size: 60px; 
+            background: gray;
+        }
+
+    - ID Selector: #nomedoId
+ex:(NO HTML) <div id= "container"> 
+    #container {
+        width: 200px;
+        }
+    
+    - Class selector: .nomedaClass
+ex:(NO HTML) <div id= "container" class="m-40">
+    .m-40 {
+        margin: 40px;
+        }
+
+    - Attribute selector, Pseudo-class, Pseudo-element, e outros
+
+*/
