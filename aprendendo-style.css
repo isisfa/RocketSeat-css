@@ -1,0 +1,16 @@
+/*  IMPORTAR (FONTES):    FONTS.GOOGLE.COM
+- selecionar fonte, incluir o FONT FAMILY */
+@import 'https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100&display=swap';
+
+
+body {
+    background-color: gray;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+p {
+    color: pink;
+}
