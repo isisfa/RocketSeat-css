@@ -1,0 +1,24 @@
+/*      vendor prefixes      
+-permite que browsers adicionem 'features'(novidades) a fim de colocar em uso algumas novidades que vemos no css
+
+        EXEMPLOS        */
+
+p {
+    -webkit-background-clip: text;  /* Chrome, Safari, ios e Android    */
+    -moz-background-clip: text;     /* Mozilla (Firefox)    */
+    -ms-background-clip: text;      /* Internet Explorer  */
+    -moz-background-clip: text;     /* Opera  */
+/*    ^ este é o vendor prefix   */
+}
+
+
+/*     Consultas        */ 
+
+[https://ireade.github.io/which-vendor-prefix/]
+[https://caniuse.com/]
+
+
+
+
+
+
